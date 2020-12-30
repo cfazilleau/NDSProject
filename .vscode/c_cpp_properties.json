@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/include/",
+                "${workspaceFolder}/build/",
+                "D:/devkitPro/libnds/include/*",
+                "D:/devkitPro/devkitARM/arm-none-eabi/include/*"
+            ],
+            "defines": [
+                "ARM9"
+            ],
+            "cppStandard": "c++14",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
